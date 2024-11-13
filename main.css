@@ -1,0 +1,19 @@
+body{
+                 background-image:url(https://i.pinimg.com/originals/f9/a8/ed/f9a8ed161524ca06e0d5250fe2d33e51.gif);
+                 background-repeat: no-repeat;
+                 background-size: cover;
+                }
+
+	h1 {text-align: center;}
+	h2 {text-align: center;}
+	li {text-align: center;}
+	dl {text-align: center;}
+	p {text-align: center; font-size: 20px}
+	div {text-align: center;}
+	a {text-align: center;}
+	p1 {text-align: center;}
+
+	div.box {
+	   text-align: center;
+
+        }
